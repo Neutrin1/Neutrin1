@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Homepage!%20&fontColor=dec7fa&fontSize=50&theme=tokyonight)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcom+to+my+homepage+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B626A6A1&center=true&width=435&lines=Do+your+best+today+)](https://git.io/typing-svg)
 ## Hi there 👋
 
 
