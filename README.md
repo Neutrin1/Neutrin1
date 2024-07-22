@@ -3,6 +3,7 @@
 ## Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neutrin1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com/?user=Neutrin1&theme=cobalt&locale=ja)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neutrin1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={Neutrin1}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <!--
 **Neutrin1/Neutrin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
