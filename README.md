@@ -5,7 +5,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Neutrin1&theme=cobalt&locale=ja)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neutrin1&hide_progress=true)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neutrin1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=Neutrin1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt" alt="Anurag's GitHub stats">
