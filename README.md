@@ -1,7 +1,8 @@
-## Hi there 👋
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={Welcom to my Homepage}&fontSize=90&fontAlign=50&fontAlignY=70&desc={Wish you have a nice day}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
+## Hi there 👋
+
 
 <!--
 **Neutrin1/Neutrin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
