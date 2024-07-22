@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Homepage%20&fontSize=50&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Welcome%20to%20My%20Homepage%20&fontSize=50&theme=tokyonight)
 ## Hi there 👋
 
 
