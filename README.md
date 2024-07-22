@@ -9,7 +9,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neutrin1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Neutrin1&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,git,github,c,cpp,,py,pytorch&theme=dark)](https://skillicons.dev)
+<img align="center" src="https://skillicons.dev/icons?i=windows&theme=light" />
 <!--
 **Neutrin1/Neutrin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
