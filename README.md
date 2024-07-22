@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Homepage!%20&fontColor=dec7fa&fontSize=50&theme=tokyonight)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B626A6A1&background=5A3FFF00&center=true%C2%A0%E7%9C%9F&vCenter=true%C2%A0%E7%9C%9F&multiline=true&repeat=true%C2%A0%E7%9C%9F&random=false%C2%A0%E5%81%87&width=435&height=70&lines=Do+your+best+today+;You're+great+today+too)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B626A6A1&background=5A3FFF00&center=true%C2%A0%E7%9C%9F&vCenter=true%C2%A0%E7%9C%9F&multiline=true&repeat=true%C2%A0%E7%9C%9F&random=false%C2%A0%E5%81%87&width=435&height=70&lines=Do+your+best+today+;You're+great+today+too+%EF%BC%81)](https://git.io/typing-svg)
 ## Hi there 👋
 
 
