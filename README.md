@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome%20to%20My%20Homepage%20&fontSize=50&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Homepage%20&fontSize=50&theme=tokyonight)
 ## Hi there 👋
 
 
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Wish%20u%20have%20a%20nice%20day&fontSize=30&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Wish%20u%20have%20a%20nice%20day&fontSize=30&theme=tokyonight)
