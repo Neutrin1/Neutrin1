@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=100&section=header&text=Wish%20u%20have%20a%20nice%20day&fontSize=30&theme=tokyonight)
