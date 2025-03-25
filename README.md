@@ -2,11 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B626A6A1&background=5A3FFF00&center=true%C2%A0%E7%9C%9F&vCenter=true%C2%A0%E7%9C%9F&multiline=true&repeat=true%C2%A0%E7%9C%9F&random=false%C2%A0%E5%81%87&width=435&height=70&lines=Do+your+best+today+;You're+great+today+too+%EF%BC%81)](https://git.io/typing-svg)
 ## Hi there 👋
 
-<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neutrin1&theme=cobalt&hide_progress=compact)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neutrin1&&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Neutrin1&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 <div align="center">
