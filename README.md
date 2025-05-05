@@ -3,8 +3,11 @@
 ## Hi there 👋
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neutrin1&&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Neutrin1&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Neutrin1&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neutrin1&count_private=true&show_icons=true&?theme=tokyonight&bg_color=1a1b27)
 
 <div align="center">
 <img align="center" src="https://skillicons.dev/icons?i=windows,linux,git,github,pytorch,c,cpp,py&theme=dark" />
