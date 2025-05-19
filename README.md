@@ -11,6 +11,10 @@
 
 💬 Blog: [Panの小窝](neutrino.top)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Neutrin1&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 </div>
