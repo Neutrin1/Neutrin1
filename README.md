@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Pan👋
 
 ## 🔭 Currently pursuing a major in Artificial Intelligence and Automation at HNIST, with research interests focusing on:
 - Machine Learning (Image Recognition & Time Series Prediction)
@@ -6,12 +6,11 @@
 - Multi-Agent Consensus Control (Distributed System Coordination)
 
 ## 🌱 I’m currently learning:
-- Medical imaging
-- pattern recognition
-
+- Pattern recognition
+- Control of MAS
 ## 📫 How to reach me:
 neutrin1zzz@gmail.com
-
+## 💬 Blog at neutrino.top
 ## ⚡ Topics of interest:
 - Art, Film, Code, Design
 
