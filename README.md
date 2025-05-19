@@ -5,15 +5,11 @@
 - Reinforcement Learning (Multi-agent control based on reinforcement learning)
 - Multi-Agent Consensus Control (Distributed System Coordination)
 
-## 🌱 I’m currently learning:
-- Pattern recognition
-- Control of MAS
+💫 Interested in Reading, Music, Moive...And any other pretty things
 ## 📫 How to reach me:
-[Email me](0neutrin1zzz@gmail.com）
+[Email me](neutrin1zzz@gmail.com）
 ## 💬 Blog:
 neutrino.top
-## ⚡ Topics of interest:
-- Art, Film, Code, Design
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Neutrin1&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
