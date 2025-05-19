@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Homepage!%20&fontColor=dec7fa&fontSize=50&theme=tokyonight)
-
 ## Hi there 👋
 
 ## 🔭 Currently pursuing a major in Artificial Intelligence and Automation at HNIST, with research interests focusing on:
