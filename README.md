@@ -17,10 +17,6 @@ neutrin1zzz@gmail.com
 ## ⚡ Topics of interest:
 - Art, Film, Code, Design
 
-## Recent contribution
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neutrin1&&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Neutrin1&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 </div>
