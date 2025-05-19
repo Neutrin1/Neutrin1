@@ -45,11 +45,6 @@ HTML                     1 repo              ██░░░░░░░░░�
  Last Updated on 19/05/2025 12:27:18 UTC
 <!--END_SECTION:waka-->
 
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Neutrin1&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-</div>
-
 <div align="center">
 <img align="center" src="https://skillicons.dev/icons?i=windows,linux,git,github,pytorch,c,cpp,py&theme=dark" />
   
