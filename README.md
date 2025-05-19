@@ -6,10 +6,10 @@
 - Multi-Agent Consensus Control (Distributed System Coordination)
 
 💫 Interested in Reading, Music, Moive...And any other pretty things
-## 📫 How to reach me:
-[Email me](neutrin1zzz@gmail.com）
-## 💬 Blog:
-neutrino.top
+
+📫 Reach me by [Email me](neutrin1zzz@gmail.com)
+
+💬 Blog: [PanPanの小窝](neutrino.top)
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Neutrin1&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
