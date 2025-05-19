@@ -9,8 +9,9 @@
 - Pattern recognition
 - Control of MAS
 ## 📫 How to reach me:
-neutrin1zzz@gmail.com
-## 💬 Blog at neutrino.top
+[Email me](0neutrin1zzz@gmail.com）
+## 💬 Blog:
+neutrino.top
 ## ⚡ Topics of interest:
 - Art, Film, Code, Design
 
