@@ -1,4 +1,4 @@
-## Hi I'm Pan👋
+## Hi I'm Neutrino👋
 
 ## 🔭 Currently pursuing a major in Artificial Intelligence and Automation at HNIST, with research interests focusing on:
 - Machine Learning (Image Recognition & Time Series Prediction)
