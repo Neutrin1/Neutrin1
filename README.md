@@ -1,6 +1,6 @@
 ## Hi I'm Neutrino👋
 
-## 🔭 Currently pursuing a major in Artificial Intelligence and Automation at HNIST, with research interests focusing on:
+## 🔭 Currently pursuing a major in Artificial Intelligence and Automation, with research interests focusing on:
 - Machine Learning (Image Recognition & Time Series Prediction)
 - Reinforcement Learning (Multi-agent control based on reinforcement learning)
 - Multi-Agent Consensus Control (Distributed System Coordination)
@@ -9,7 +9,7 @@
 
 📫 Reach me by [Email me](neutrin1zzz@gmail.com)
 
-💬 Blog: [PanPanの小窝](neutrino.top)
+💬 Blog: [Panの小窝](neutrino.top)
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Neutrin1&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
