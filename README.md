@@ -9,7 +9,7 @@
 
 📫 Reach me by [Email me](neutrin1zzz@gmail.com)
 
-💬 Blog: [Panの小窝](neutrino.top)
+💬 Blog: [Neutrinoの小窝](neutrino.top)
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-642.7%20thousand%20lines%20of%20code-blue)
