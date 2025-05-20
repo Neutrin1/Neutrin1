@@ -20,9 +20,11 @@ jobs:
           SHOW_LANGUAGE: false
           SHOW_OS: true
           SHOW_PROJECTS: false
-          SHOW_TOTAL_CODE_TIME: false
+          SHOW_TOTAL_CODE_TIME: True
           SHOW_PROFILE_VIEWS: false
           SHOW_SHORT_INFO: false
           SHOW_TIMEZONE: false
           SHOW_LANGUAGE_PER_REPO: false
+          SHOW_COMMIT: false
+          SHOW_EDITORS: false
           
