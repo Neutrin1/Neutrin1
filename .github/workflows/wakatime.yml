@@ -27,4 +27,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_COMMIT: false
           SHOW_EDITORS: false
-          
+          SHOW_UPDATED_DATE: false
