@@ -12,31 +12,20 @@
 💬 Blog: [Neutrinoの小窝](neutrino.top)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-404%20hrs%2013%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-642.7%20thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                81 commits          ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-🌆 Daytime                128 commits         █████████░░░░░░░░░░░░░░░░   37.76 % 
-🌃 Evening                111 commits         ████████░░░░░░░░░░░░░░░░░   32.74 % 
-🌙 Night                  19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-```
-
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🔥 Editors: 
-VS Code                  6 hrs 3 mins        █████████████████████████   100.00 % 
-
 💻 Operating System: 
 Windows                  6 hrs 1 min         █████████████████████████   99.69 % 
 WSL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 
 
- Last Updated on 20/05/2025 00:38:46 UTC
+ Last Updated on 20/05/2025 00:45:30 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
