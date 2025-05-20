@@ -7,7 +7,7 @@
 
 💫 Interested in Reading, Music, Moive...And any other pretty things
 
-📫 Reach me by [Email me]<neutrin1zzz@gmail.com>
+📫 Reach me by [Email me](mailto:neutrin1zzz@gmail.com)
 
 💬 Blog: [Neutrinoの小窝](https://neutrino.top/)
 
