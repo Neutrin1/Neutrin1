@@ -9,7 +9,7 @@
 
 📫 Reach me by [Email me](neutrin1zzz@gmail.com)
 
-💬 Blog: [Neutrinoの小窝](neutrino.top)
+💬 Blog: [Neutrinoの小窝](https://neutrino.top/)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-404%20hrs%2013%20mins-blue)
