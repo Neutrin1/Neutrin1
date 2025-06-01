@@ -28,7 +28,7 @@ WSL                      18 mins             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <div align="center">
-<img align="center" src="https://skillicons.dev/icons?i=windows,linux,git,github,pytorch,c,cpp,py&theme=dark" />
+<img align="center" src="https://skillicons.dev/icons?i=c,cpp,py&theme=dark" />
   
 <!--
 **Neutrin1/Neutrin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
