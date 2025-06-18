@@ -12,16 +12,16 @@
 💬 Blog: [Neutrinoの小窝](https://neutrino.top/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%2032%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-659.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-661.5%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💻 Operating System: 
-Windows                  14 mins             ██████████████████░░░░░░░   71.50 % 
-WSL                      5 mins              ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+WSL                      2 hrs 13 mins       ███████████████████████░░   90.44 % 
+Windows                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
 ```
 
 
