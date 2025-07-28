@@ -1,6 +1,6 @@
 ## Hi I'm Neutrino👋
 
-## 🔭 Currently pursuing a major in Artificial Intelligence and Automation, with research interests focusing on:
+## 🔭 Currently pursuing a major in Electronic Information , with research interests focusing on:
 - Machine Learning (Image Recognition & Time Series Prediction)
 - Reinforcement Learning (Multi-agent control based on reinforcement learning)
 - Multi-Agent Consensus Control (Distributed System Coordination)
