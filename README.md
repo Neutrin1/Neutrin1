@@ -1,11 +1,5 @@
 ## Hi I'm Neutrino👋
-
-## 🔭 Currently pursuing a major in Electronic Information , with research interests focusing on:
-- Machine Learning (Image Recognition & Time Series Prediction)
-- Reinforcement Learning (Multi-agent control based on reinforcement learning)
-- Multi-Agent Consensus Control (Distributed System Coordination)
-
-💫 Interested in Reading, Music, Moive...And any other pretty things
+## I need to sleep!
 
 📫 Reach me by [Email me](mailto:neutrin1zzz@gmail.com)
 
