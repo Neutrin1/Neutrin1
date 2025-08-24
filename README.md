@@ -8,14 +8,14 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%201%20min-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-718.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-723.9%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💻 Operating System: 
-Windows                  1 hr 4 mins         ███████████████░░░░░░░░░░   61.81 % 
-Linux                    39 mins             ██████████░░░░░░░░░░░░░░░   38.19 % 
+Windows                  1 hr 4 mins         ███████████████░░░░░░░░░░   61.83 % 
+Linux                    39 mins             ██████████░░░░░░░░░░░░░░░   38.17 % 
 ```
 
 
