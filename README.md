@@ -6,7 +6,7 @@
 💬 Blog: [Neutrinoの小窝](https://neutrino.top/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-845%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-845%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.28%20million%20lines%20of%20code-blue?style=flat)
 
@@ -14,8 +14,8 @@
 
 ```text
 💻 Operating System: 
-Windows                  18 mins             █████████████████████░░░░   84.92 % 
-Linux                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Windows                  18 mins             █████████████████░░░░░░░░   69.71 % 
+Linux                    8 mins              ████████░░░░░░░░░░░░░░░░░   30.29 % 
 ```
 
 
