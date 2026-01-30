@@ -1,4 +1,7 @@
 ## Hi I'm Neutrino👋
+- about me: 183cm/80kg
+- sports: Table Tennis🏓. Current Setup: Butterfly Fan Zhendong ALC， Forehand: DHS Hurricane III (38°)， Backhand: DHS Hurricane III (37°). Previously used: Yinhe U2, Yinhe Provincial Purple Dragon 437S; DHS Jinji 5, DHS TG 506X, DHS Hurricane Long 5; Butterfly Ovtcharov ALC.
+- I always go to the gym!
 ## I need to sleep!
 
 📫 Reach me by [Email me](mailto:neutrin1zzz@gmail.com)
