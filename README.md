@@ -30,7 +30,7 @@
   **Total Score:** 387  
   *(Ideological and Political Theory: 63/100, Mathematics II: 104/150, English II: 85/100, Fundamentals of Digital Electronic Technology: 135/150)*
 
-# I need food!
+# ☕ I need iced American!
 
 📫 Reach me by [Email me](mailto:neutrin1zzz@gmail.com)
 
@@ -53,7 +53,7 @@ Linux                    4 mins              ██████░░░░░�
 <!--END_SECTION:waka-->
 
 <div align="center">
-<img align="center" src="https://skillicons.dev/icons?i=c,cpp,py&theme=dark" />
+<img align="center" src="https://skillicons.dev/icons?i=pytorch,pyc,cpp&theme=dark" />
   
 <!--
 **Neutrin1/Neutrin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
