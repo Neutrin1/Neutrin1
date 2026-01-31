@@ -9,7 +9,18 @@
 - Hyperspectral image classification
 - Multi-agent consensus control
 - Autonomous driving.
-  
+## Education Background
+- Bachelor of Engineering
+  2019–2023
+  Hunan Institute of Science and Technology
+  Communication Engineering
+  Academic Ranking: **Top 5%**
+- Master of Engineering
+  2023–2026
+  Hunan Institute of Science and Technology
+  Electronic Information
+  Concentration: Artificial Intelligence and Computer Vision
+  Entrance Exam Rank: **1st** (Ideological and Political Theory: 63/100, Mathematics II: 104/150, English II: 85/100, Fundamentals of Digital Electronic Technology: 135/150， **Total Score: 387**)
 # I need food!
 
 📫 Reach me by [Email me](mailto:neutrin1zzz@gmail.com)
