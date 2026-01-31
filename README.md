@@ -17,7 +17,6 @@
 - Multi-agent consensus control
 - Autonomous driving
 
-- 
 ## 🎓 Education Background
 - **Bachelor of Engineering** (2019–2023)  
   Hunan Institute of Science and Technology  
