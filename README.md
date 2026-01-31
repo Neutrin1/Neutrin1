@@ -24,8 +24,7 @@
   Academic Ranking: **Top 5%**
 - **Master of Engineering** (2023–2026)  
   Hunan Institute of Science and Technology  
-  Major: Electronic Information  
-  Concentration: Artificial Intelligence and Computer Vision  
+  Major: Electronic Information (Artificial Intelligence and Computer Vision)  
   Entrance Examination Rank: **1st** (Total Score: 387)
 
 # ☕ I need Iced Americano!
