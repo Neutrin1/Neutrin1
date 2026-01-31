@@ -26,11 +26,9 @@
   Hunan Institute of Science and Technology  
   Major: Electronic Information  
   Concentration: Artificial Intelligence and Computer Vision  
-  Entrance Examination Rank: **1st**  
-  **Total Score:** 387  
-  *(Ideological and Political Theory: 63/100, Mathematics II: 104/150, English II: 85/100, Fundamentals of Digital Electronic Technology: 135/150)*
+  Entrance Examination Rank: **1st** (Total Score: 387)
 
-# ☕ I need iced American!
+# ☕ I need Iced Americano!
 
 📫 Reach me by [Email me](mailto:neutrin1zzz@gmail.com)
 
