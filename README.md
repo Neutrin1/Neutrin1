@@ -1,17 +1,36 @@
 # Hi I'm Neutrino👋
-## About me
-- Body info: 183cm/80kg.
-- Sports preferences: Table Tennis🏓. Current Setup: Butterfly Fan Zhendong ALC， Forehand: DHS Hurricane III (38°)， Backhand: DHS Hurricane III (37°). Previously used: Yinhe U2, Yinhe Provincial Purple Dragon 437S; DHS PG 5, DHS TG 506X, DHS Hurricane Long 5; Butterfly Ovtcharov ALC.
-- I always go to the gym💪!
-- I like cats🐈.
-## Research interests
+## 😉About me
+- Body info: 183cm / 80kg.
+- Sports preferences: Table Tennis 🏓  
+  Current Setup: Butterfly Fan Zhendong ALC,  
+  Forehand: DHS Hurricane III (38°),  
+  Backhand: DHS Hurricane III (37°).  
+  Previously used: Yinhe U2, Yinhe Provincial Purple Dragon 437S;  
+  DHS PG 5, DHS TG 506X, DHS Hurricane Long 5;  
+  Butterfly Ovtcharov ALC.
+- I always go to the gym 💪.
+- I like cats 🐈.
+
+## ✨Research interests
 - Remote sensing road extraction
 - Hyperspectral image classification
 - Multi-agent consensus control
-- Autonomous driving.
-## Education Background
-- Bachelor of Engineering | 2019–2023 | Hunan Institute of Science and Technology | Communication Engineering | Academic Ranking: **Top 5%**
-- Master of Engineering | 2023–2026 | Hunan Institute of Science and Technology | Electronic Information | Concentration: Artificial Intelligence and Computer Vision; Entrance Exam Rank: **1st** (Ideological and Political Theory: 63/100, Mathematics II: 104/150, English II: 85/100, Fundamentals of Digital Electronic Technology: 135/150， **Total Score: 387**)
+- Autonomous driving
+
+- 
+## 🎓 Education Background
+- **Bachelor of Engineering** (2019–2023)  
+  Hunan Institute of Science and Technology  
+  Major: Communication Engineering  
+  Academic Ranking: **Top 5%**
+- **Master of Engineering** (2023–2026)  
+  Hunan Institute of Science and Technology  
+  Major: Electronic Information  
+  Concentration: Artificial Intelligence and Computer Vision  
+  Entrance Examination Rank: **1st**  
+  **Total Score:** 387  
+  *(Ideological and Political Theory: 63/100, Mathematics II: 104/150, English II: 85/100, Fundamentals of Digital Electronic Technology: 135/150)*
+
 # I need food!
 
 📫 Reach me by [Email me](mailto:neutrin1zzz@gmail.com)
