@@ -31,7 +31,7 @@
 
 📫 Reach me by [Email me](mailto:neutrin1zzz@gmail.com)
 
-💬 Blog: [Neutrinoの小窝](https://neutrino.top/)
+💬 Blog: [Neurotrino's 小窝](https://neutrino.top/)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-845%20hrs%2055%20mins-blue?style=flat)
