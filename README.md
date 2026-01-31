@@ -50,7 +50,7 @@ Linux                    4 mins              ██████░░░░░�
 <!--END_SECTION:waka-->
 
 <div align="center">
-<img align="center" src="https://skillicons.dev/icons?i=pytorch,pyc,cpp&theme=dark" />
+<img align="center" src="https://skillicons.dev/icons?i=pytorch,py&theme=dark" />
   
 <!--
 **Neutrin1/Neutrin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
