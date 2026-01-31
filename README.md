@@ -5,7 +5,7 @@
   Current Setup: Butterfly Fan Zhendong ALC,  
   Forehand: DHS Hurricane III (38°),  
   Backhand: DHS Hurricane III (37°).  
-  Previously used: Yinhe U2, Yinhe Provincial Purple Dragon 537S;  
+  Previously used: Yinhe U2, Yinhe Purple Dragon 537S;  
   DHS PG 5, DHS TG 506X, DHS Hurricane Long 5;  
   Butterfly Ovtcharov ALC.
 - I always go to the gym 💪.
