@@ -1,4 +1,4 @@
-# 👋 Hi I'm Neutrino
+# 👋 Hi I'm Neurotrino
 ## 😉 About me
 - Body info: 183cm / 80kg.
 - Sports preferences: Table Tennis 🏓  
