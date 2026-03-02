@@ -42,8 +42,7 @@
 
 ```text
 💻 Operating System: 
-Windows                  5 hrs 5 mins        █████████████████████████   99.97 % 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Windows                  5 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 
