@@ -38,13 +38,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.70%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💻 Operating System: 
-Windows                  5 hrs 5 mins        █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
